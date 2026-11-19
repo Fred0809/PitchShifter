@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CODEC_ADDR Pin=R33-1
+Removed Pin From Net: NetName=CODEC_ADDR Pin=U11-4
+Added Pin To Net: NetName=CODEC_DOUT Pin=R33-1
+Added Pin To Net: NetName=CODEC_DOUT Pin=U11-4
+Added Net: Name=CODEC_DOUT

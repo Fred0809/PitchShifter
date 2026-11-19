@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Analogue_IN.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Analogue_OUT.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Codec.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=MCU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Memory.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Analogue_IN.SchDoc|FileName=Power.SchDoc|SheetNumber=4

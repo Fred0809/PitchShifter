@@ -1,0 +1,24 @@
+Change Managed Component Library Link : Designator=U? Old VaultGUID=89B9B971-E33A-4957-A29E-D8D0597C71F4 New VaultGUID=89B9B971-E33A-4957-A29E-D8D0597C71F4 Old ItemGUID=9ac78cbd-208a-422b-a3e6-c3d745d3ccde New ItemGUID=9ac78cbd-208a-422b-a3e6-c3d745d3ccde Old RevisionGUID=50fd9125-c7e7-441d-af0c-e6dd162b9037 New RevisionGUID=b6898a61-3713-4073-9ba0-a7d5a7af6f35
+Added Pin To Net: NetName=CODEC_AINA- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AINA- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AINA- Pin=U?-16
+Added Net: Name=CODEC_AINA-
+Added Pin To Net: NetName=CODEC_AINB- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AINB- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AINB- Pin=U?-19
+Added Net: Name=CODEC_AINB-
+Added Pin To Net: NetName=CODEC_AOUTA- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AOUTA- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AOUTA- Pin=U?-24
+Added Net: Name=CODEC_AOUTA-
+Added Pin To Net: NetName=CODEC_AOUTB- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AOUTB- Pin=R?-1
+Added Pin To Net: NetName=CODEC_AOUTB- Pin=U?-27
+Added Net: Name=CODEC_AOUTB-
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP
+Added Member To Class: ClassName=Codec Member=Component R? DNP

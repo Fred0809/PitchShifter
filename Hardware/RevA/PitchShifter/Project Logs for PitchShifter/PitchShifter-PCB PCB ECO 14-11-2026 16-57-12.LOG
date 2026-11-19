@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MCU_VCAP1 Pin=C51-1
+Removed Pin From Net: NetName=MCU_VCAP1 Pin=U6-81
+Change Net Name : Old Net Name=MCU_VCAP1 New Net Name=+3V3
+Added Pin To Net: NetName=MCU_VCAP Pin=C51-1
+Added Pin To Net: NetName=MCU_VCAP Pin=C52-1
+Added Pin To Net: NetName=MCU_VCAP Pin=U6-81
+Added Pin To Net: NetName=MCU_VCAP Pin=U6-125
+Added Net: Name=MCU_VCAP
+Added Rule: Name=Schematic Supply Nets

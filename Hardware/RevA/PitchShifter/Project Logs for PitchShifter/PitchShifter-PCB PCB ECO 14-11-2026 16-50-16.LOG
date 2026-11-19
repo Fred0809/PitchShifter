@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetR43_2 New Net Name=LDO5V_FB
+Change Net Name : Old Net Name=NetR45_2 New Net Name=LDO5V_EN
+Change Net Name : Old Net Name=NetR48_2 New Net Name=LDO3V3_EN
+Change Net Name : Old Net Name=NetR49_1 New Net Name=LDO3V3_SNS

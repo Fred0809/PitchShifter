@@ -1,0 +1,5 @@
+Added Class: Name=QSPI
+Added Class: Name=SDRAM_ADR
+Added Class: Name=SDRAM_CTRL
+Added Class: Name=SDRAM_DATA
+Added Class: Name=SDRAM_MASK
