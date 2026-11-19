@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=MCU_VCAP1 Pin=C52-1
-Removed Pin From Net: NetName=MCU_VCAP1 Pin=U6-125
-Added Pin To Net: NetName=MCU_VCAP2 Pin=C52-1
-Added Pin To Net: NetName=MCU_VCAP2 Pin=U6-125
-Added Net: Name=MCU_VCAP2

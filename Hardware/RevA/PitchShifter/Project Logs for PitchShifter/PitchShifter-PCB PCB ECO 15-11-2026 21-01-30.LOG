@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=STM_QSPI_CLK Pin=U6-28
-Added Pin To Net: NetName=STM_QSPI_CLK Pin=U6-58
